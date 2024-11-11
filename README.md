@@ -29,7 +29,7 @@ Access the live project here: [productiv.vercel.app](https://productiv.vercel.ap
 
 - **Vue.js**: JavaScript framework for building interactive user interfaces
 - **Vue Router**: Handles application routing
-- **TailWind**: To style the page
+- **TailWind**: To style the project
 - **Vercel**: Deployment and hosting platform
 
 ## Installation
@@ -38,11 +38,11 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Theoj-l/WAD2.git
+   git clone https://github.com/Theoj-l/Productiv
    ```
 2. Navigate to the project directory:
    ```bash
-   cd WAD2
+   cd Productiv
    ```
 3. Install dependencies:
    ```bash
